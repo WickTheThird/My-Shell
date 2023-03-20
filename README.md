@@ -1,4 +1,6 @@
 
+# Help
+
 # Operations and Commands
 
 Operations and commands are essential parts of a shell program, and they allow the user to interact with the system and perform various tasks. Here is a detailed description of some of the operations and commands, including cd, clr, dir, environ, echo, help, pause, and quit.
